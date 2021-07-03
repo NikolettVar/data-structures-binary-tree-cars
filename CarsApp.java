@@ -8,7 +8,7 @@ package binarytreecars;
 public class CarsApp {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Tree<Car> myCars = new Tree<>();
 		
 		Car car1 = new Car("Ford", "2019", 40000, 2);
